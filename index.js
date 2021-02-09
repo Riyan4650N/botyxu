@@ -38,19 +38,19 @@ const { ind } = require('./language')
 /********** MENU SETTING **********/
 const vcard = 'BEGIN:VCARD\n' 
             + 'VERSION:3.0\n' 
-            + 'FN:Wahyu AR\n' 
-            + 'ORG: Pengembang yXu Bot;\n' 
+            + 'FN:46N BOT\n' 
+            + 'ORG: Pengembang Riyan Bot;\n' 
             + 'TEL;type=CELL;type=VOICE;waid=6281977578791:+62 819-7757-8791\n'
             + 'END:VCARD' 
 blocked = []   
 prefix = '#'
 limitawal = 50
-memberlimit = 2
-cr = '𝙮𝙓𝙪 𝘽𝙊𝙏 *SUDAH TERVERIFIKASI*'
+memberlimit = 100
+cr = '4650N *SUDAH TERVERIFIKASI*'
 /*************************************/
 
 /******** OWNER NUMBER**********/
-const ownerNumber = ["6281977578791@s.whatsapp.net"] 
+const ownerNumber = ["6282194303167@s.whatsapp.net"] 
 /************************************/
 
        
